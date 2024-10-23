@@ -25,7 +25,7 @@ This project was conceived and developed by SOHAN. All credit for the original i
 1. Clone this repository or download the source code:
 
    ```
-   git clone https://github.com/yourusername/enhanced-phishing-url-detector.git
+   git clone https://github.com/m4th3r0b0t/enhanced-phishing-url-detector.git
    cd enhanced-phishing-url-detector
    ```
 
